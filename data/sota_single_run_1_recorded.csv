@@ -1,0 +1,6 @@
+method,best_reward
+MAPPO Baseline,102.433319
+ALP-GMM Curriculum,88.270134
+DreamerV3 SOTA,62.05867
+MAMBA SOTA,118.397186
+Full CGAWM Hybrid,187.618149

@@ -1,0 +1,6 @@
+condition,best_reward
+Model-Free Baseline,-1.504
+Curriculum Only,-5.508
+Model-Based Only,2.5
+Full Hybrid CGAWM,1.9995
+Uncertainty Ablation NO,0.9985

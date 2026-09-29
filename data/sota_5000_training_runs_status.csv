@@ -1,0 +1,7 @@
+experiment,episodes,source,execution_status,numeric_result_recovered,notes
+MAPPO+,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."
+ALP-GMM,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."
+FULL CGAWM,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."
+PPO_Baseline,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."
+ALP_GMM_Only,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."
+Full_CGAWM,5000,new_test_for_sota.ipynb,completed,no,"Notebook output shows the 5000/5000 training completion but does not retain a final numeric summary in the inspected output."

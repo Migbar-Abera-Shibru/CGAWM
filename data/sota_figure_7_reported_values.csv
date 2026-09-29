@@ -1,0 +1,5 @@
+method,reported_value,source,source_type,note
+MAPPO,85.012894,new_test_for_sota.ipynb,figure_source_value,"Value explicitly stored in the Figure 7 plotting cell; not a recovered trajectory-level dataset."
+DreamerV3,92.288086,new_test_for_sota.ipynb,figure_source_value,"Value explicitly stored in the Figure 7 plotting cell; not a recovered trajectory-level dataset."
+MAMBRL,109.394470,new_test_for_sota.ipynb,figure_source_value,"Value explicitly stored in the Figure 7 plotting cell; not a recovered trajectory-level dataset."
+Full CGAWM Hybrid,137.048340,new_test_for_sota.ipynb,figure_source_value,"Value explicitly stored in the Figure 7 plotting cell; not a recovered trajectory-level dataset."

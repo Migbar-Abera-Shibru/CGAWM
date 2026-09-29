@@ -1,0 +1,6 @@
+condition,best_reward,reported_source,source_type,note
+Model-Free Baseline,-5.508,Thesis Table 4.5,historical_reported_result,"Original experiment was actually run by the authors; original report/raw output was not recovered."
+Curriculum-Only,-5.007,Thesis Table 4.5,historical_reported_result,"Original experiment was actually run by the authors; original report/raw output was not recovered."
+Model-Based Only,2.500,Thesis Table 4.5,historical_reported_result,"Original experiment was actually run by the authors; original report/raw output was not recovered."
+Full Hybrid CGAWM,1.499,Thesis Table 4.5,historical_reported_result,"Original experiment was actually run by the authors; original report/raw output was not recovered."
+Uncertainty Ablation,2.500,Thesis Table 4.5,historical_reported_result,"Original experiment was actually run by the authors; original report/raw output was not recovered."
