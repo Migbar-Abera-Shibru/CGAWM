@@ -71,6 +71,4 @@ Therefore, do not describe this package as containing the complete raw dataset. 
 
 `new_test_for_sota.ipynb` contains both actual training runs and a separate section explicitly described in the notebook as “Simulation logic using target reward curves from actual SOTA papers.” The simulated section must not be represented as an independent reproduction of the original SOTA algorithms.
 
-## Recommended publication wording
 
-Use the accompanying `DATA_AVAILABILITY_STATEMENT.md` as the starting point. Replace the repository placeholder with the final public repository URL/DOI only after the repository is created.
